@@ -366,3 +366,5 @@ MigrationBackup/
 5-Clustering/XP-with-tsne.ipynb
 /6-NLP/images/Hotel_Reviews_Filtered.csv
 /6-NLP/images/Hotel_Reviews_NLP.csv
+6-NLP/data/dataset.csv
+6-NLP/images/Hotel_Reviews.csv
